@@ -1,7 +1,9 @@
 # ByzMusicCalalog
-code owner: Polykarpos Polykarpidis
 creator - administrator: Polykarpos Polykarpidis
 
+
+## contributors
+Polykarpos Polykarpidis
 
 
 ## Licence
